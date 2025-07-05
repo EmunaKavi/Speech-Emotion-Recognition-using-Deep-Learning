@@ -415,12 +415,6 @@ SOFTWARE.
 - 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/emuna-dhamotharan-251a54258/)
 - 🐱 **GitHub**: [GitHub Profile](https://github.com/EmunaKavi)
 - 📧 **Email**: kks348739@gmail.com
-
-### Support
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/gokul-krishnan-yn/emotion-recognition-app/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/gokul-krishnan-yn/emotion-recognition-app/discussions)
-- 📚 **Documentation**: [Wiki](https://github.com/gokul-krishnan-yn/emotion-recognition-app/wiki)
-
 ---
 
 ## ⭐ Star History
