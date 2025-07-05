@@ -412,8 +412,8 @@ SOFTWARE.
 **Project Team**: 
 
 **Emuna D** - *Software Developer & AI Specialist*
-- 💼 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/emuna-d)
-- 🐱 **GitHub**: [GitHub Profile](https://github.com/emuna-d)
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/emuna-dhamotharan-251a54258/)
+- 🐱 **GitHub**: [GitHub Profile](https://github.com/EmunaKavi)
 - 📧 **Email**: kks348739@gmail.com
 
 ### Support
@@ -427,7 +427,7 @@ SOFTWARE.
 
 If you find this project helpful, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gokul-krishnan-yn/emotion-recognition-app&type=Date)](https://star-history.com/#gokul-krishnan-yn/emotion-recognition-app&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=emuna-d/emotion-recognition-app&type=Date)](https://star-history.com/#emuna-d/emotion-recognition-app&Date)
 
 ---
 
